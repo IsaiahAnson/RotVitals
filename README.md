@@ -1,8 +1,6 @@
-# RotVitals
+<img src="https://raw.githubusercontent.com/IsaiahAnson/rot-vitals/main/assets/banner.svg" width="100%" alt="RotVitals, a Grain Rot mod by Mentalize. Floating health bars above every enemy. Works as host or client, Line of sight only, UE4SS.">
 
-[**Get it on Thunderstore**](https://thunderstore.io/c/grain-rot/p/Mentalize/RotVitals/)
-
-<img src="icon.png" width="120" align="right" alt="RotVitals icon">
+<a href="https://thunderstore.io/c/grain-rot/p/Mentalize/RotVitals/"><img src="https://raw.githubusercontent.com/IsaiahAnson/rot-vitals/stats/downloads.svg" width="100%" alt="Download count and latest version on Thunderstore. Get it on Thunderstore."></a>
 
 Floating enemy health bars for **Grain Rot** (UE 5.7, via UE4SS).
 
